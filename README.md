@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RVNielsen
+- 👋 Hi, I’m Rachel Nielsen
 - 👀 I’m interested in software engineering and programming
-- 🌱 I’m currently learning python, c++, javascript, java, and bash
+- 🌱 I’m currently learning python, c++, java, and bash
 - 💞️ I’m looking to collaborate on entry-level projects
 - 📫 How to reach me: rachelvnielsen@gmail.com or https://www.linkedin.com/in/rachel-nielsen-383050171/
 
